@@ -8,3 +8,5 @@
  4. ` git status` : Provides a status of where the head is pointing.
 
  5. `git log --oneline --graph -all ` : Is useful to get a log in a graph format
+
+ 6. `git push ` : To push files
