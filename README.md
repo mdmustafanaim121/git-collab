@@ -10,3 +10,8 @@
  5. `git log --oneline --graph -all ` : Is useful to get a log in a graph format
 
  6. `git push ` : To push files
+
+ 7. `Cleaning up after PR Merge`: 
+  	Delete the branch on remote
+	`git fetch --prune`: update local history
+	`git branch -d <name>` :delete the branch
